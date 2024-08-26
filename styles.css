@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color:blueviolet;
+}
+
+h2 {
+    color:chocolate;
+}
+
+h3 {
+    color:darkred;
+}
+
+p,
+li {
+    font-family: cursive;
+    text-align: left;
+}

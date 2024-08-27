@@ -21,3 +21,19 @@ li {
     font-family: cursive;
     text-align: left;
 }
+
+.header {
+    border: 5px dotted green;
+    margin-bottom: 250px;
+    background-color: aliceblue;
+}
+
+.link-list li {
+    list-style-type: none;
+    border: 5px groove hotpink;
+    display: inline;
+    padding: 16px;
+    margin: 70px;
+    background-color: bisque;
+    color:black;
+}
